@@ -34,6 +34,6 @@ Pour récupérer les fichiers :
 <br />
 - - -
 <br />
-Clément SAMON<br />
+
 Les Petits Débrouillards <br />
 Janvier 2016
