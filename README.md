@@ -1,6 +1,6 @@
 # SURPRISE CONTROLE
 
-![Petits Debs Surprise Icon](https://github.com/MaletteNumerique/Surprise_Controle/blob/master/hughy.png)
+![Petits Debs Surprise Icon](https://github.com/MaletteNumerique/Surprise_Controle/blob/master/Visuels/hughy.png)
 
 ## PRESENTATION
 
