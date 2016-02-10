@@ -1,15 +1,21 @@
 # SURPRISE CONTROLE
 
-![Petits Debs Surprise Icon](https://raw.github.com/MaletteNumerique/Surprise_Controle/blob/master/hughy.png)
+![Petits Debs Surprise Icon](https://github.com/MaletteNumerique/Surprise_Controle/blob/master/hughy.png)
 
 ## PRESENTATION
 
 <br />
 <br />
-Le **Surprise-Contrôle** est une animation conçue autour d’une petite puce électronique, microcontrôleur, pour créer une multitude de petites machines différentes selon vos envies !
-Le microcontrôleur est déjà programmé donc les entrées et sorties de celui-ci sont déjà assignées. Pour réaliser votre propre Surprise-Contrôle, il vous faudra choisir des composants qui peuvent être connectés en entrées et en sorties en vous référant aux codes couleurs.
-- Les périphériques d’entrée indiqués par la couleur jaune (*boutons, potentiomètres, interrupteur*).- Les périphériques de sortie indiqués par la couleur verte (*LED, moteurs*) ou bleue (*buzzer piezzo*).
-Une fois les composants choisis et bien placés, vous n’avez plus qu’à les souder vous même et... Hop ! Surprise ?!
+Le **Surprise-Contrôle** est une animation conçue autour d’une petite puce électronique, microcontrôleur, pour créer une multitude de petites machines différentes selon vos envies !
+
+Le microcontrôleur est déjà programmé donc les entrées et sorties de celui-ci sont déjà assignées. Pour réaliser votre propre Surprise-Contrôle, il vous faudra choisir des composants qui peuvent être connectés en entrées et en sorties en vous référant aux codes couleurs.
+
+
+- Les périphériques d’entrée indiqués par la couleur jaune (*boutons, potentiomètres, interrupteur*).
+- Les périphériques de sortie indiqués par la couleur verte (*LED, moteurs*) ou bleue (*buzzer piezzo*).
+
+
+Une fois les composants choisis et bien placés, vous n’avez plus qu’à les souder vous même et... Hop ! Surprise ?!
 <br />
 <br />
 <br />
